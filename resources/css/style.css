@@ -1,19 +1,42 @@
+/* completed 06-28-2017 @ 15:00 */
+
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+.personal {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.remembers {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+
 .discover {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
-  color: black;
+  color: white;
   text-align: center;
+}
+
+.copy {
+  text-align: right;
+  color: gray;
 }
 
 a {
   color: Aquamarine;
   font-size: 16px;
   align-items: center;
-}
-
-h2  {
-  text-align: center;
 }
 
 .centering {
