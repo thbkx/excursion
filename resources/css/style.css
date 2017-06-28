@@ -1,0 +1,21 @@
+.discover {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: black;
+  text-align: center;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+  align-items: center;
+}
+
+h2  {
+  text-align: center;
+}
+
+.centering {
+  text-align: center;
+}

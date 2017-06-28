@@ -2,3 +2,6 @@ layout: https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excur
 
 redline: https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/mocks/excursion_redline.png
 
+landscape image: https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/images/camp.jpg
+
+cellphone icon: https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/images/phone.png 
